@@ -40,7 +40,7 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-<img width="520" height="292" alt="Screenshot 2026-10-25 152044" src="https://github.com/user-attachments/assets/1d750701-cdbe-41f0-b06c-efdd32fccbe6" />
+![Uploading Screenshot 2026-10-25 152024.png…]()
 
 Tabulation:1
 <img width="188" height="310" alt="Screenshot 2026-10-25 152059" src="https://github.com/user-attachments/assets/cbad5262-8dfe-4ee8-a40d-0c8c117e409e" />
